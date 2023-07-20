@@ -1,0 +1,161 @@
+.dev {
+  border: none;
+  background-color: rgba(29, 229, 146, 255);
+  font-family: sans-serif;
+  width: 720px;
+  padding: 150px 60px;
+  margin: 100px auto;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.btn {
+  font-weight: bold;
+  font-size: large;
+  border-radius: 40px;
+  border-top: 30px;
+  font-family: sans-serif;
+  border: none;
+  padding: 14px 30px;
+  margin-top: 10px;
+}
+.h {
+  font-size: 45px;
+}
+
+.flodesk {
+  border: none;
+  font-family: sans-serif;
+  width: 500px;
+  padding: 70px 60px;
+  margin: auto auto;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.img4 {
+  width: 50%;
+  height: 100;
+  width: 50;
+  padding: 10px 70px;
+}
+.heading2 {
+  width: 100%;
+  text-align: center;
+}
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 10px;
+  padding: 19px 30px;
+  border-radius: 17px;
+  border: 1px solid gray;
+}
+.btn-flodesk {
+  width: 50%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 40px;
+  font-family: sans-serif;
+  border: none;
+  padding: 14px 12px;
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-bottom: 50px;
+}
+.b {
+  text-align: center;
+  color: gray;
+}
+.c {
+  text-align: center;
+}
+.d {
+  text-align: center;
+  color: gray;
+  font-size: 15px;
+}
+.e {
+  color: black;
+}
+
+.google {
+  font-family: sans-serif;
+  border: 2px solid lightgray;
+  margin: 100px auto;
+  width: 400px;
+  border-radius: 10px;
+}
+.img3 {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-sizing: border-box;
+}
+.heading {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25px;
+}
+.light {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  color: rgb(123, 115, 115);
+  font-size: 15px;
+  display: inline-block;
+}
+.light2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  color: gray;
+  font-size: 20px;
+}
+.btn-google {
+  border: 2px solid lightgray;
+  background-color: white;
+  color: blue;
+  margin: 20px 20px;
+  padding: 14px 26px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.profiles {
+  border: 2px solid lightgray;
+  width: 550px;
+  margin: 100px auto;
+  font-family: sans-serif;
+  border-radius: 10px;
+}
+.heading {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+.light {
+  color: gray;
+  padding: 0px 30px;
+  font-size: 20px;
+}
+.img1 {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  padding: 30px 60px;
+}
+.img2 {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  padding: 20px 60px;
+}
+.word {
+  color: blue;
+  padding: 10px 30px;
+  font-size: 20px;
+}
